@@ -1,0 +1,11 @@
+CS3021 - Tutorial 6 - Computer Architecture
+Niall Martin Ryan - 14315886
+
+Q1 (i) 		- It hits 9 times
+   (ii)  	- It hits 13 times
+   (iii) 	- It hits 15 times
+   (iv)		- It hits 16 times
+Q2 (i)		- compulsary = 8, capacity = 7  , conflict = 8 
+   (ii)		- compulsary = 8, capacity = 7  , conflict = 3
+   (iii)	- compulsary = 8, capacity = 10 , conflict = 1
+   (iv)		- compulsary = 8, capacity = 8  , conflict = 0 - Cant have a conflict miss in fully associative cache
